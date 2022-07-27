@@ -1,4 +1,4 @@
-# Source-code-for-sparsity-driven-autofocus
+# Source-code-for-the-sparsity-driven-autofocus
 MATLAB code for the synthetic example in the paper "A Sparsity-Driven Approach for Joint SAR Imaging and Phase Error Correction"
 If you use this code, please cite the following two papers as the original academic publications where the code has been used:
 
